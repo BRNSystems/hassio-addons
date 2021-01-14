@@ -1,0 +1,11 @@
+{
+  "name": "Almond-Telegram bridge",
+  "version": "1",
+  "slug": "test",
+  "description": "Taken from https://gist.github.com/balloob/d59cae89d19a14bcec99ce1bde05bd44#file-__init__-py",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "startup": "application",
+  "boot": "auto",
+  "options": {},
+  "schema": {}
+}
